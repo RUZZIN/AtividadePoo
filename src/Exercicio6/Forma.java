@@ -1,4 +1,5 @@
 package Exercicio6;
 
-public class Forma {
+public interface Forma {
+    double calcularArea();
 }
